@@ -1,1 +1,14 @@
+<<<<<<< HEAD
 This is a new feature.
+=======
+Feature: Cloud Sync
+
+Description: Cloud Sync refers to the ability of users to have their data automatically updated across multiple devices through cloud storage. It ensures continuity in important files, settings, and preferences, regardless of the device being used.
+
+Benefits:
+
+Seamless Access: Access your data from any device with an internet connection.
+Cloud Backup: Automatic backup of data in the cloud, ensuring minimal loss of data.
+Multi-device syncing: Changes made on one device automatically reflect across all other devices on the same account.
+Collaborative features: Share files, and collaborate in real-time with others on various devices.
+>>>>>>> feature-greeting
